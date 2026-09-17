@@ -8,6 +8,20 @@
 
 ---
 
+## Problem Statement
+
+Analyze the Netflix Movies and TV Shows dataset to identify content trends, geographic distribution, audience ratings, and growth patterns, and provide business recommendations through an interactive Business Intelligence dashboard.
+
+## Project Objectives
+
+- Clean and preprocess the Netflix dataset.
+- Perform Exploratory Data Analysis (EDA).
+- Identify key business KPIs.
+- Visualize trends using an interactive dashboard.
+- Generate business insights and recommendations.
+
+
+  
 ## 📖 Project Overview
 
 This project is a fully interactive **Business Intelligence (BI) Dashboard** built on the Netflix Movies and TV Shows dataset. It was developed as part of the **IBM AICTE Internship Program** to demonstrate end-to-end BI skills including data cleaning, exploratory data analysis (EDA), KPI identification, trend analysis, and interactive visualization.
@@ -204,5 +218,10 @@ This project is for educational purposes as part of the **IBM AICTE Internship P
 Dataset credit: [Shivam Bansal on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) — CC0: Public Domain.
 
 ---
+---
+
+## Author
+
+**Karishma (Karishma510)**
 
 *Built with Python · Dash · Plotly | IBM AICTE Business Intelligence Project*
